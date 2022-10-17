@@ -48,6 +48,7 @@ const Home = () => {
                         src={LogoTitle}
                         alt="JavaScript Developer Name, Web Developer Name"
                     />
+        
                     <AnimatedLetters
                         letterClass={letterClass}
                         strArray={nameArray}
