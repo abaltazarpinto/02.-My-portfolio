@@ -9,7 +9,7 @@ import './App.scss'
 
 function App() {
   return (
-    <>
+    
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -17,7 +17,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Route>
       </Routes>
-    </>
+    
   )
 }
 

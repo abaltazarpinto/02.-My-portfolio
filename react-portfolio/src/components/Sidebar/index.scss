@@ -135,6 +135,13 @@
   display: none;
 }
 
+.textName {
+  color: orange;
+  text-decoration: none;
+  text-decoration-style: none;
+  font-family: 'La Belle Aurore';
+
+}
 
 @media screen and (max-width: 1200px) {
   .nav-bar { 
@@ -188,3 +195,4 @@
      }
   }
 }
+ 
